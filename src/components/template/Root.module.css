@@ -1,0 +1,15 @@
+.rootLayout {
+    background-image: url("https://cdn.pixabay.com/photo/2023/07/26/20/05/gull-8151932_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.mainLayout {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

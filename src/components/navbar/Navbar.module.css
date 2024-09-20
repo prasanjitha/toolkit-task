@@ -1,0 +1,24 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color:rgb(51, 51, 51);
+    padding: 10px 20px;
+    z-index: 1000;
+}
+
+.navbarList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+
+.navBarItem {
+    color: white;
+    text-decoration: none;
+}
